@@ -1,5 +1,5 @@
  
-1113 � 1 
+1113 – 1 
  (Adopted Sept. 2, 1977)(Amended Dec. 2, 1977)(Amended Feb. 3, 1978)  
 (Amended Sept. 5, 1980)(Amended Apr. 3, 1981)(Amended July 3, 1981)  
 (Amended by California Air Resources Board Oct. 21, 1981)  
@@ -39,7 +39,7 @@ conditioning equipment, other mechanical equipment, large fixed stationary tools
 signs, motion picture and television production sets, and concrete forms.  
 (4) ARCHITECTURAL COATINGS are any coatings applie d to stationary structures  
 or their appurtenances, or to fields and lawns.  Rule 1113 (Cont.)  (Amended February 5, 2016 ) 
-1113 � 2 (5) BELOW -GROUND WOOD PRESERVATIVES are wood preservatives 
+1113 – 2 (5) BELOW -GROUND WOOD PRESERVATIVES are wood preservatives 
 formulated to protect below -ground wood.  
 (6) BITUMINOUS COATING MATERIALS are black or brownish coating 
 materials, soluble in carb on disulfide, consisting mainly of hydrocarbons and 
@@ -50,7 +50,7 @@ roofing t hat incorporate bituminous coating materials.
 (8) BOND BREAKERS are coatings formulated for or appl ied between layers of 
 concrete to prevent the freshly poured top layer of concrete from bonding to the 
 substrate over which it is poured.   Bond breakers will be exempt from Rules 1113 
-and 314 upon adoption of Rule 1161 � Release Agents  or any other Regulation XI 
+and 314 upon adoption of Rule 1161 – Release Agents  or any other Regulation XI 
 rule limiting the VOC content of bond breakers . 
 (9) BUILDING ENVELOPE is the ensemble of exterior and demising partitions of a 
 building that enclose condition ed space.  
@@ -75,13 +75,13 @@ E96/E96M.
 (11) COATING is a material which is applied to a surface in order to beautify, protect, 
 or provide a barrier to such surface.  
 (12) COLORANTS are solutio ns of dyes or suspensions of pigments.  Rule 1113 (Cont.)  (Amended February 5, 2016 ) 
-1113 � 3 (13) COLOR INDICATING SAFETY COATINGS are industrial maintenance 
+1113 – 3 (13) COLOR INDICATING SAFETY COATINGS are industrial maintenance 
 coatings for safety management of process streams to prevent or minimize the 
 consequences of the release of toxic, reactive, flammable or explosive substance s, 
 and include chemical and thermal color indicating coatings.  
 (14) CONCENTRATE S are  coating s supplied in a form that must be diluted with 
 water or an exempt compound, prior to application, according to the architectural 
-coatings manufacturer�s application inst ructions in order to yield the desired 
+coatings manufacturer’s application inst ructions in order to yield the desired 
 coating properties.  
 (15) CONCRETE -CURING COMPOUNDS are coatings formulated for or applied to 
 freshly poured concrete to retard the evaporation of water.  Concrete -curing 
@@ -111,7 +111,7 @@ following subcategories :
 (A) CLEAR TOPCOATS are clear coatings used to enhance, seal and protect 
 a Faux Finishing coating that meets the requirements of subsection 
 (b)(21)(B), (C), (D) or ( E).  These clear topc oats must be sold and used Rule 1113 (Cont.)  (Amended February 5, 2016 ) 
-1113 � 4 solely as part of a Faux Finishing or graphic arts coating system, and must 
+1113 – 4 solely as part of a Faux Finishing or graphic arts coating system, and must 
 be labeled in accordance paragraph (d)(7).  
 (B) DECORATIVE COATINGS are coatings used to create a gonioapparent 
 appearance, such as metallic, iridescent, or p earlescent appearance, that 
@@ -147,9 +147,9 @@ Floor coatings also include  clear coatings formulated for or applied to concret
 flooring .  Floor coatings do not include Industrial Maintenance Coatings.  
 (25) FORM RELEASE COMPOUNDS are coatings designed for or applied to a 
 concrete  form to prevent the freshly poured concrete from bonding to the form.  Rule 1113 (Cont.)  (Amended February 5, 2016 ) 
-1113 � 5 The form may consist of metal, wood, or some material other than concrete.   
+1113 – 5 The form may consist of metal, wood, or some material other than concrete.   
 Form release compounds will be exempt from Rules 1113 and 314 upon adoption 
-of Rule 1161 � Release Agents  or any other Regulation XI Rule limiting the VOC 
+of Rule 1161 – Release Agents  or any other Regulation XI Rule limiting the VOC 
 content of form release compounds . 
 (26) FORMULATION DATA is the actual product recipe which itemizes all the 
 ingredients contained in a product including VOCs and the quantities thereof used 
@@ -185,7 +185,7 @@ Ws
 weight of volatile compounds emitted during 
 curing, in grams  
  Ww = weight of water emitted during curing, in grams  Rule 1113 (Cont.)  (Amended February 5, 2016 ) 
-1113 � 6  Wes = weight of exempt compounds emitted during 
+1113 – 6  Wes = weight of exempt compounds emitted during 
 curing, in grams  
  Vm = volume of the material prior to reaction, in liters  
  Vw = volume of water emitted during curing, in liters  
@@ -219,7 +219,7 @@ chemicals, chemica l fumes, chemical mixtures, or solutions;
 (C) Repeated exposure to temperatures in excess of 250 degrees Fahrenheit;  
 (D) Repeated heavy abrasion, including mechanical wear and repeated 
 scrubbing with industrial solvents, cleaners, or scouring agents; or  Rule 1113 (Cont.)  (Amended February 5, 2016 ) 
-1113 � 7 (E) Exterior e xposure of metal structures.  
+1113 – 7 (E) Exterior e xposure of metal structures.  
 (33) INTERIOR STAINS are stains labeled and formulated exclusively for use on 
 interior surfaces.  
 (34) LACQUERS are clear or pigmented w ood topcoats or clear lacquer sanding 
@@ -254,4 +254,602 @@ film.
 degree meter and a gloss of 15 or greater on an 85 degree meter according to 
 ASTM Test Method D 523.  
 (44) NON -SACRIFICIAL ANTI -GRAFFITI COATINGS are clear or opaque 
-Industrial Maintenance Coatings formulated and recommended to deter adhesion 
+Industrial Maintenance Coatings formulated and recommended to deter adhesion Rule 1113 (Cont.)  (Amended February 5, 2016 ) 
+1113 – 8 of graffiti and to resist repeated scrubbing and exposure to harsh solvents, 
+cleansers, or scouring agents used to remove graffiti.  
+(45) PEARLESCEN T means exhibiting various colors depending on the angles of 
+illumination and viewing, as observed in mother -of-pearl.  
+(46) PIGMENTED means containing colorant or dry coloring matter, such as an  
+insoluble powder, to impart color to a substrate.  
+(47) POST -CONSUMER CO ATINGS are finished coatings that would have been 
+disposed of in a landfill, having completed their usefulness to a consumer, and 
+does not include manufacturing wastes.  
+(48) PRE-TREATMENT WASH PRIMERS are coatings which contain a minimum of 
+0.5 percent acid, by  weight, applied directly to bare metal surfaces to provide 
+necessary surface etching.  
+(49) PRIMERS are coatings applied to a surface to provide a firm bond between the 
+substrate and subsequent coats.  
+(50) QUICK -DRY ENAMELS are nonflat, high gloss coatings which com ply with the 
+following:  
+(A) Shall be capable of being applied directly from the container by brush or 
+roller under normal conditions, normal conditions being ambient 
+temperatures between 60 F and 80F; and  
+(B) When tested in accordance with ASTM D 1640 they shall set-to-touch in 
+two hours or less, dry -hard in eight hours or less, and be tack -free in four 
+hours or less by the mechanical test method.   Coatings classified as quick -
+dry enamels are subsumed by the nonflat coating category.  
+(51) QUICK -DRY PRIMERS, SEALERS , AN D UNDERCOATERS are primers, 
+sealers, and undercoaters which are intended to be applied to a surface to provide 
+a firm bond between the substrate and subsequent coats and which are dry -to-
+touch in one -half hour and can be recoated in two hours when tested i n 
+accordance with ASTM D 1640.   Coatings classified as quick -dry primers, 
+sealers, and undercoaters are subsumed by the primer, sealer, undercoater 
+category.  
+(52) REACTIVE DILUENT is a liquid , VOC during application and one in which, 
+through chemical and/or phy sical reaction, such as polymerization, becomes an 
+integral part of the coating.  
+(53) REACTIVE PENETRATING SEALERS are clear or pigmented coating s labeled 
+and formulated for application to above -grade concrete and masonry substrates to 
+provide protection from w ater and waterborne contaminants including, but not Rule 1113 (Cont.)  (Amended February 5, 2016 ) 
+1113 – 9 limited to, alkalis, acids, and salts.  Reactive Penetrating Sealers must me et the 
+following criteria : 
+(A) Used only for reinforced concrete bridge structures for transportation 
+projects within 5 miles of the  coast or above 4,000 feet  elevation ; or for 
+restoration and/or preservation projects on registered historical buildings 
+that are under the purview of a restoration architect.  
+(B) Penetrate into concrete and masonry substrates and chemically react to 
+form cova lent bonds with naturally occurring minerals in the substrate.  
+(C) Line the pores of concrete and masonry substrates with a hydrophobic 
+coating, but do not form a surface film.  
+(D) Improve water repellency at least 80 percent after application on a 
+concrete or mas onry substrate.  This performance must be verified on 
+standardized test specimens, in accordance with one or more of the 
+following standards: ASTM C67, or ASTM C97 /97M , or ASTM C140.  
+(E) Provide a breathable waterproof barrier for concrete or masonry surfaces 
+that does not prevent or substantially retard water vapor transmission.   
+This performance must be verified on standardized test specimens, in 
+accord ance with ASTM E96/E96M  or ASTM D6490 . 
+(F) Meet the performance criteria listed in the National Cooperative High way 
+Research Report 244 (1981), surface chloride screening applications, for 
+products labeled and fo rmulated for vehicular traffic.  
+(54) RECYCLED COATINGS are coatings manufactured by a certified recycled paint 
+manufacturer and formulated such that 50 percent o r more of the total weight 
+consists of secondary and post -consumer coatings and 10 percent or more of the 
+total weight consists of post -consumer coatings.  
+(55) RESTORATION ARCHITECT is an architect that has  a valid certificate of 
+registration as an architect is sued by the California State Board of Architectural 
+Examiners or the National Council of Architectural Registration Boards and 
+working on registered historical restoration and/or preservation project s. 
+(56) RETAIL OUTLET means any establishment at which archite ctural coatings  are 
+sold or offered for sale to consumers.  
+(57) ROOF COATINGS are coatings formulated for application to exterior roofs for 
+the primary purpose of preventing penetration of the substrate by water, or 
+reflecting heat and ultraviolet radiation.  Rule 1113 (Cont.)  (Amended February 5, 2016 ) 
+1113 – 10 (58) RUST PREVENTATIVE COATINGS are coatings formulated for use in 
+preventing the corrosion of metal surfaces in residential and commercial 
+situations.  
+(59) SACRIFICIAL ANTI -GRAFFITI COATINGS are non -binding, clear coatings 
+which are formulated and recommended for ap plication s that allow for the 
+removal of graffiti primarily by power washing.   
+(60) SANDING SEALERS are clear wood coatings formulated for or applied to bare 
+wood for sanding and to seal the wood for subsequent application (s) of coatings.  
+(61) SEALERS are coatings applied to either block materials from penetrating into or 
+leaching out of a substrate, to prevent subsequent coatings from being absorbed 
+by the substrate, or to prevent harm to subsequent coatings by materials in the 
+substrate.  
+(62) SECONDARY (REWORK) COATING S are fragments of finished coatings or 
+finished coatings from a manufacturing process that has converted resources into 
+a commodity of real economic value, but does not include excess virgin resources 
+of the manufacturing process.  
+(63) SHELLACS are clear or pi gmented coatings formulated solely with the resinous 
+secretions of the lac insect (laccifer lacca).  Shellacs are formulated to dry by 
+evaporation without a chemical reaction providing a quick -drying, solid, 
+protective film for priming and sealing stains a nd odors; and for wood finishing 
+excluding floors.  
+(64) SOLICIT is to require for use or to specify, by written or oral contract.  
+(65) SPECIALTY PRIMERS are coatings formulated for or applied to a substrate to 
+seal fire, smoke or water damage , or to condition excess ively chalky surfaces.  An 
+excessively chalky surface is one that is defined as having chalk rating of four or 
+less as determined by ASTM D4214 – Photographic Reference Standard No. 1 or 
+the Federation of Societies for Coatings Technology “Pictorial Standa rds for 
+Coatings Defects”.  
+(66) STAINS are opaque or semi -transparent coatings which are formulated to change 
+the color but not conceal the grain pattern or texture.  
+(67) STATIONARY STRUCT URES include , but are not limited to, homes, office 
+buildings, factories, mobi le homes, pavements, curbs, roadways, ra cetracks, and 
+bridges . 
+(68) STONE CONSOLIDANTS are coatings that are labeled and formulated for 
+application to stone substrates to repair historical structures that have been Rule 1113 (Cont.)  (Amended February 5, 2016 ) 
+1113 – 11 damaged by weathering or other decay mechanism s.  Stone Consolidants must 
+meet all of  the following criteria:   
+(A) Used only for restoration and/or preservation projects on registered 
+historical buildings that are under the purview of a restoration architect.  
+(B) Penetrate into stone substrates to create bon ds between particles and 
+consolidate deteriorated material.  
+(C) Specified and used in accordance with ASTM E2167.  
+(69) SWIMMING POOL COATINGS are coatings specifically formulated for or 
+applied to the interior of swimming pools including , but not limited to , water  park 
+attractions, ponds and fountains, to resist swimming pool chemicals.  
+(70) SWIMMING POOL REPAIR COATINGS are chlorinated, rubber -based coatings 
+used for the repair and maintenance of swimming pools over existing chlorinated, 
+rubber -based coatings.  
+(71) TILE AND  STONE SEALERS are clear or pigmented sealers that are used for 
+sealing tile, stone or grout to provide resistance against water, alkalis, acids, 
+ultraviolet light or staining and which meet one of the following subcategories:  
+(A) Penetrating sealers are polym er solutions that cross -link in the substrate 
+and must meet the following criteria:  
+(i) A fine particle structure to penetrate dense tile such as porcelain 
+with absorption as low as 0.10  percent per ASTM C373, ASTM 
+C97/C97M, or ASTM C642,  
+(ii) Retain or increase st atic coefficient of friction per ANSI A137.1,  
+(iii) Not create a topical surface film on the tile or stone, and  
+(iv) Allow vapor transmission per ASTM E96/96M.  
+(B) Film forming sealers which leave a protective film on the surface . 
+(72) TINT BASE is an architectural coatin g to which colorants are added.  
+(73) TOPCOAT is any final coating, applied in one or more coats, to the interior or 
+exterior of a stationary structure or their appurtenances.  
+(74) TRAFFIC COATINGS are coatings formulated for or applied to public streets, 
+highways, a nd other surfaces including, but not limited to, curbs, berms, 
+driveways, and parking lots.  
+(75) TUB AND TILE REFINISHING COATINGS are clear or opaque coatings that 
+are used exclusively for refinishing the surface of a bathtub, shower, or sink and 
+must meet all  of the following criteria:  
+(A) Have a scratch hardness of 3H or harder and a gouge hardness of 4H or 
+harder as determined on bonderite 1000 in accordance with ASTM D3363,  Rule 1113 (Cont.)  (Amended February 5, 2016 ) 
+1113 – 12 (B) Have a weight loss of 20 milligrams or less after 1000 cycles as 
+determined with CS -17 w heels on bonderite 1000 in accordance with 
+ASTM D4060,  
+(C) Must withstand 1 ,000 hours or more of exposure with few or no #8 blisters 
+as determined on unscribed bonderite in accordance with ASTM D4585, 
+and ASTM D714, and  
+(D) Must have an adhesion rating of 4B or be tter after 24 hours of recovery as 
+determined on unscribed bonderite in accordance with ASTM D4585 and 
+ASTM D3359.  
+(76) UNDERCOATERS are coatings formulated for or applied to substrates to provide 
+a smooth surface for subsequent coats.  
+(77) VARNISHES are clear or pi gmented wood topcoats formulated with various 
+resins to dry by chemical reaction.  
+(78) VOLATILE ORGANIC  COMPOUND (VOC)  is as defined in Rule 102 – 
+Definition of Terms.  For the purpose of this rule, tertiary butyl acetate ( tBAc) 
+shall be considered exempt as a VOC only for purposes of VOC  emissions 
+limitations or VOC  content requirements and will continue to be a VOC  for 
+purposes of all recordkeeping, emissions reporting, photochemical dispersion 
+modeling, and inventory requirements which apply to VOCs , when use d in 
+industrial maintenance coatings , including zinc -rich industrial maintenance 
+coatings  and non -sacrificial anti -graffiti coatings . 
+(79) WATERPROOFING SEALERS are coatings which are formulated for the 
+primary purpose of preventing penetration of porous substr ates by water.  
+(80) WATERPROOFING CONCRETE/MASONRY SEALERS are clear or 
+pigmented sealers that are formulated for sealing concrete and masonry to provide 
+resistance against water, alkalis, acids, ultraviolet light, or staining.  
+(81) WOOD COATINGS are film forming co atings used for application to wood 
+substrates only, which are applied to substrates including floors, decks and 
+porches. The Wood Coating category includes all lacquer s, varnish es and sanding 
+sealers, regardless of whether they are clear, semi -transparent  or opaque.  
+(82) WOOD CONDITIONERS are coatings  that are formulated for or applied to bare 
+wood , prior to  applying a  stain , to provide uniform penetration of the stain.  
+(83) WOOD PRESERVATIVES are coatings formulated to protect wood from decay 
+or insect attack by th e addition of a wood preservative chemical registered by the 
+California Environmental Protection Agency.  Rule 1113 (Cont.)  (Amended February 5, 2016 ) 
+1113 – 13 (84) WORKSITE means any location where architectural coating s are  stored or 
+applied. 
+(85) ZINC -RICH INDUSTRIAL MAINTENANCE PRIMERS are primers formulated 
+to cont ain a minimum of 65 percent metallic zinc powder (zinc dust) by weight of 
+total solids for application to metal substrates.  
+(c) Requirements  
+(1)  Except as provided in paragraphs (c)(3), (c)(4), no person shall supply, sell, offer 
+for sale, market, manufacture, b lend, repackage, apply, store at a worksite, or 
+solicit the application of any architectural coating within the District  that is listed 
+in the Table of Standards 1 and contains VOC (excluding any colorant added to 
+tint bases) in excess of the corresponding  VOC limit specified in the table, after 
+the effective date specified . 
+(2) No person  within the District  shall , at the point of sale of any architectural coating 
+subject to paragraph (c)(1),  add to such coating any colorant that contains VOC in 
+excess of the c orresponding applicable VOC limit specified in the Table of 
+Standards 2.  Rule 1113 (Cont.)  (Amended February 5, 2016 ) 
+1113 – 14 TABLE OF STANDARDS  1 
+VOC LIMITS  
+Grams of VOC Per Liter of Coating,  
+Less Water and Less Exempt Compounds  
+ 
+COATING CATEGORY  Category 
+Codes  Current 
+Limit1 Effective Date  Small 
+Container  
+Exemption  1/1/14  2/5/16  1/1/19  
+Bond Breakers  5 350    ✓ 
+Building Envelope Coating  62 100   50 ✓ 
+Concrete -Curing Compounds  7 100    ✓ 
+Concrete -Curing Compounds  
+For Roadways and Bridges2 7 350    ✓3 
+Concrete Surface Retarder  58 50 50   ✓ 
+Default  51 50 50   ✓ 
+Driveway Sealer  52 50    ✓ 
+Dry-Fog Coatings  8 50 50   ✓ 
+Faux Finishing Coatings        
+Clear Topcoat  9a 100 100   ✓ 
+Decorative Coatings  9 350    ✓ 
+Glazes  9b 350    ✓ 
+Japan  9c 350    ✓ 
+Trowel Applied Coatings  9d 50 50   ✓ 
+Fire-Proofing  Coatings  10 150 150   ✓ 
+Flats  13 50    ✓5 
+Floor Coatings  14 50    ✓ 
+Form Release Compound  16 100 100   ✓ 
+Graphic Arts (Sign) Coatings  17 200 150 200  ✓ 
+Industrial Maintenance (IM) Coatings  19 100    ✓5 
+Color Indicating Safety Coatings   480    ✓5 
+High Temperature IM Coatings  18 420    ✓5 
+Non-Sacrificial Anti -Graffiti Coatings  19a 100    ✓5 
+Zinc-Rich IM Primers  56 100    ✓5 
+Magnesite Cement Coatings  22 450    ✓3 
+Mastic Coatings  23 100 100   ✓ 
+Metallic Pigmented Coatings  24 150 150   ✓ 
+Multi -Colo r Coatings  25 250    ✓3 
+Nonflat Coatings  26, 27, 28  50    ✓5 
+Pre-Treatment Wash Primers  29 420    ✓3 
+Primers, Sealers, and Undercoaters  30 100    ✓ 
+Reactive Penetrating Sealers  59 350    ✓4 
+Recycled Coatings  33 250   150 ✓ 
+Roof Coatings  34 50    ✓ 
+Roof Coatings, Aluminum  53 100    ✓ 
+Roof Primers, Bituminous  4 350    ✓3 
+Rust Preventative Coatings  35 100    ✓6 
+Sacrificial Anti -Graffiti Coatings  60 50    ✓3 
+Shellac        
+Clear  37 730    ✓4 
+Pigmented  38 550    ✓4 
+Specialty Primers  39 100    ✓ 
+Stains 41 100    ✓ Rule 1113 (Cont.)  (Amended February 5, 2016 ) 
+1113 – 15 COATING CATEGORY  Category 
+Codes  Current 
+Limit1 Effective Date  Small 
+Container  
+Exemption  1/1/14  2/5/16  1/1/19  
+Stains, Interior  40 250    ✓ 
+Stone Consolidants  61 450    ✓3 
+Swimming Pool Coatings        
+Repair  43 340    ✓3 
+Other  42 340    ✓3 
+Tile and Stone Sealers  63 100    ✓ 
+Traffic Coatings  45 100    ✓ 
+Tub and Tile Refinishing  Coatings  64 420    ✓4 
+Waterproofing Sealers  48 100    ✓ 
+Waterproofing Concrete/Masonry Sealers  49 100    ✓ 
+Wood Coatings   275     
+Varnish  46, 47 275     
+Sanding Sealers  36 275     
+Lacquer  20 275     
+Wood Conditioners  65 100     
+Wood Preservatives        
+Below -Ground  50 350    ✓3 
+Other  55 350    ✓3 
+1. The specified limits remain in effect unless revised limits are listed in subsequent columns in the Table of 
+Standards.  
+2. Does not include compounds used for curbs and gutters, sidewalks, islands, driveways and other mi scellaneous 
+concrete areas.  
+3. Effective 02/05/2016 , the small container exemption no longer applies per (f)(1) . 
+4. Effective 01/01/201 8, the small container exemption no longer applies per (f)(1).  
+5. Effective 01/01/2019, the small container exemption is further r estricted per (f)(1).  
+6. Effective 01/01/2020, the small container exemption is further restricted per (f)(1).  
+ 
+TABLE OF STANDARDS  1 (cont.)  
+VOC LIMITS  
+Grams of VOC Per Liter of Material  
+COATING  Limit  
+Low-Solids Coating  120 
+ Rule 1113 (Cont.)  (Amended February 5, 2016 ) 
+1113 – 16 TABLE OF STANDARDS 2 
+VOC LIMITS  FOR COLORANTS  
+Grams of VOC Per Liter of Colorant  
+Less Water and Less Exempt Compounds  
+ 
+COLORANT  ADDED TO  Limit  
+Architectural Coatings , excluding IM  Coatings  50 
+Solvent -Based IM  600 
+Waterborne IM  50 
+. 
+(3) Coating Categorization  
+(A) If anywhere on the container  of any coating listed in either Table of 
+Standards, on any sticker or label affixed thereto, or in any sales or 
+advertising literature, any representation is made that the coating may be 
+used as, or is suitable for use as, a coating for which a lower VOC 
+standard is specified in the table or in paragraph (c)(1), then the lowest 
+VOC standard shall apply . 
+(B) The provisions of paragraph (c)(3)(A) shall not apply to a coating 
+described in part as a flat  coating;  nonflat  coating;  primer , sealer , and 
+undercoater ; or represented in part for use on flooring, provided that all of 
+the following requirements are met:  
+(i) The coating meets the definition of a specific coating category for 
+which a higher VOC standard is specified in the Table of 
+Standards,  
+(ii) The coating is labe led in a manner consistent with the definition 
+and all the specific labeling requirements for that specific coating 
+category, and  
+(iii) The coating is suitable and only recommended for the intended 
+uses of that specific coating category.  
+(C) The provisions of paragr aph (c)(3)(A) shall not apply to recycled coatings.  
+(4) Sell-Through Provision  
+(A) Any coating that is manufactured prior to the effective date of the 
+applicable limit specified in the Table of Standards 1, and that has a VOC 
+content above that limit (but not abov e the limit in effect on the date of 
+manufacture), may be sold, supplied, offered for sale, or applied for up to 
+three years after the specified effective date.  Rule 1113 (Cont.)  (Amended February 5, 2016 ) 
+1113 – 17 (B) Any coating sold in a one -liter or smaller container that has a VOC 
+content above the applicab le limit specified in the Table of Standards 1 for 
+that coating, which is manufactured prior to the effective date of the 
+elimination or restriction of the small container exemption listed in 
+subparagraph (f)(1)(B) through (f)(1)(E), may be sold, supplied,  offered 
+for sale, or applied for up to two years after the specified date.   
+(5) All architectural coating or colorant containers  from which  the contents are used  
+by pouring, siphoning, brushing, rolling, padding, ragging or other means, shall 
+be closed when not in use.  These containers include, but should not be limited to: 
+drums, buckets, cans, pails, trays or other storage or application containers.  
+(6) No person shall apply or solicit the application within the District of any 
+industrial maintenance coatings,  except non -sacrificial anti -graffiti coatings, for 
+residential use or for use in areas such as office space and meeting rooms of 
+industrial, commercial or institutional facilities not exposed to such extreme 
+environmental conditions described in the defin ition of industrial maintenance 
+coatings.  
+(7) General Prohibition  
+No person shall supply, sell, market, offer for sale, manufacture, blend, or 
+repackage any architectural coating or colorant in the District subject to the 
+provisions of this rule with any mater ials that contain in excess of 0.1  percent  by 
+weight any Group II exempt compounds listed in Rule 102.  Cyclic, branched, or 
+linear, completely methylated siloxanes (VMS) are not subject to this prohibition.  
+(d) Administrative Requirements  
+(1) Containers for all coatings , or any colorants  manufactured on and after January 1, 
+2017, subject to this rule shall display the date of manufacture of the contents or a 
+code indicating the date of manufacture.  The manufacturers of such coatings or 
+colorants shall file with the Executive Officer of the District and the Executive 
+Officer of the Air Resources Board an explanation of each code.  
+(2) Containers for all coatings subject to the requirements of this rule shall carry a 
+statement of the manufacturer's recommendation regard ing thinning of the 
+coating.  This requirement shall not apply to the thinning of architectural coatings 
+with water.  The recommendation shall specify that the coating is to be employed 
+without thinning or diluting under normal environmental and applicatio n 
+conditions, unless any thinning recommended on the label for normal Rule 1113 (Cont.)  (Amended February 5, 2016 ) 
+1113 – 18 environmental and application conditions do not cause a coating to exceed its 
+applicable standard.  
+(3) Each container of any coating , or any colorant manufactured on and after January 
+1, 201 7, subject to this rule shall display the maximum VOC content in grams per 
+liter, as follow s: 
+(A) For coatings or colorants packaged in a single container, the VOC per liter 
+of coating (less water and less exempt compounds, and excluding any 
+colorant added to the tint base) as supplied , after any recommended 
+thinning;  
+(B) For multi-component coating s, the VOC per liter of coating  (less water 
+and exempt compounds, and excluding any colorant added to the tint base) 
+after mixing the components , as recommended for use by the architectural 
+coatings manufacturer ; 
+(C) For concentrate s, the VOC per liter of coating (less water and exempt 
+compounds, and excluding any colorant added to the tint base) at the 
+minimum dilution recommended for use by the architectural coatings 
+manufa cturer;  
+(D) For l ow solids coatings, the VOC per liter of material (excluding any 
+colorant added to the tint bases) after any recommended thinning ; and  
+(E) VOC content displayed may be calculated using product formulation data, 
+or may be determined using the test method in subdivision (e).  VOC 
+content calculated from formulation data shall be adjusted by the 
+manufacturer to account for cure volatiles (if any) and maximum VOC 
+content within production batches.   The VOC  content  shall be displayed 
+on the coating cont ainer such that the required language is : 
+(i) Noticeable a nd in clear and legible English;  
+(ii) Separated from other text ; and 
+(iii) Conspicuous, as compared with other words, statements, designs, 
+or devices in the label as to render it likely to be read and 
+understood b y an ordinary individual under customary conditions 
+of purchase or use.  
+(4) The labels of all rust preventative coatings shall prominently display the statement 
+“For Metal Substrates Only”.  
+(5) The labels of all specialty primers shall prominently display one or m ore of the 
+following descriptions:  
+(A) For fire -damaged substrates.  Rule 1113 (Cont.)  (Amended February 5, 2016 ) 
+1113 – 19 (B) For smoke -damaged substrates.  
+(C) For water -damaged substrates.  
+(D) For excessively chalky substrates.  
+(6) The labels of concrete -curing compounds manufactured and used for roadways 
+and bridges shall prom inently display the statement "FOR ROADWAYS AND 
+BRIDGES ONLY (Not for Use on Curbs and Gutters, Sidewalks, Islands, 
+Driveways and Other Miscellaneous Concrete Areas)".  
+(7) All Clear Topcoat for Faux Finishing coatings shall prominently display the 
+statement “T his product can only be sold as a part of a Faux Finishing coating 
+system”.  
+(8) A manufacturer, distributor, or seller of a coating meeting the requirements of this 
+rule, who supplies that coating to a person who applies it in a non -compliant 
+manner, shall not  be liable for that non -compliant use, unless the manufacturer, 
+distributor, or seller knows that the supplied coating would be used in a non -
+compliant manner.  
+(9) Manufacturers of recycled coatings shall submit a letter to the Executive Officer 
+certifying the ir status as a Recycled Paint Manufacturer.  
+(e) Test Methods  
+For the purpose of this rule, the following test methods shall be used:  
+(1) VOC Content of Coatings  and Colorants  
+The VOC content of coatings subject to the provisions of this rule shall be 
+determined b y: 
+(A) U.S. EPA Reference Test Method 24 (Determination of Volatile Matter 
+Content, Water Content, Density, Volume Solids, and Weight Solids of 
+Surface Coatings, Code of Federal Regulations Title 40, Part 60, 
+Appendix A) with the exempt compounds’ content dete rmined by Method 
+303 (Determination of Exempt Compounds) in the South Coast Air 
+Quality Management District's (SCAQMD) "Laboratory Methods of 
+Analysis for Enforcement Samples" manual, or  
+(B) Method 304 (Determination of Volatile Organic Compounds (VOC) in 
+Various Materials ) in the SCAQMD's "Laboratory Methods of Analysis 
+for Enforcement Samples" manual.  
+(C) Method 313 (Determination  of Volatile Organic Compounds VOC by Gas 
+Chromatography -Mass Spectrometr y) in the SCAQMD’s “Laboratory 
+Methods of Analysis for Enforce ment Samples” manual.  Rule 1113 (Cont.)  (Amended February 5, 2016 ) 
+1113 – 20 (D) ASTM Test Method 6886 (Standard Test Method for Determination of the 
+Weight Percent Individual Volatile Organic Compounds in Waterborne 
+Air-Dry Coatings by Gas Chromatography).  
+(E) Exempt Perfluorocarbons  
+The following classes of compound s: 
+ cyclic, branched, or linear, completely fluorinated alkanes  
+cyclic, branched, or linear, completely fluorinated ethers with no 
+unsaturations  
+cyclic, branched, or linear, completely fluorinated tertiary amines 
+with no unsaturations  
+sulfur -containing per fluorocarbons with no unsaturations and with 
+sulfur bonds only to carbon and fluorine  
+will be analyzed as exempt compounds for compliance with subdivision 
+(c), only when manufacturers specify which individual compounds are 
+used in the coating formulations.   In addition, the manufacturers must 
+identify the U.S. EPA, CARB, and SCAQMD approved test methods, 
+which can be used to quantify the amount of each exempt compound.  
+(2) Acid Content of Coatings  
+The acid content of a coating subject to the provisions of this rule shall be 
+determined by ASTM Test Method D 1613 (Acidity in Volatile Solvents and 
+Chemical Intermediates Used in Paint, Varnish, Lacquer, and Related Products).  
+(3) Metal Content of Coatings  
+The metallic content of a coating subject to the provisions of th is rule shall be 
+determined by Method 318 (Determination of Weight Percent Elemental Metal in 
+Coatings by X -Ray Diffraction) in the SCAQMD's "Laboratory Methods of 
+Analysis for Enforcement Samples" manual.  
+(4) Drying Times  
+The set -to-touch, dry -hard, dry -to-touch, and dry -to-recoat times of a coating 
+subject to the provisions of this rule shall be determined by ASTM Test Method D   
+1640 (Standard Test Methods for Drying, Curing, or Film Formation of Organic 
+Coatings at Room Temperature).  The tack -free time of a  coating subject to the 
+provisions of this rule shall be determined by ASTM Test Method D 1640, 
+according to the Mechanical Test Method . 
+(5) Gloss Determination  
+The gloss shall be determined by ASTM Test Method D 523 (Specular Gloss).  
+(6) Gonioapparent Characteris tics for Coatings  Rule 1113 (Cont.)  (Amended February 5, 2016 ) 
+1113 – 21 A coating will be determined to have a gonioapparent appearance by ASTM E 
+284 (Standard Terminology of Appearance).  
+(7) Performance criteria for Reactive Penetrating Sealers shall be determined by   the 
+following:  
+(A) Water Repellency  
+(i) ASTM C67  (Standard Test Methods for Sampling and Testing 
+Brick and Structural Clay Tile);  
+(ii) ASTM C97/97M (Standard Test Methods for Absorption and Bulk 
+Specific Gravity of Dimension Stone); or  
+(iii) ASTM C140 (Standard Test Methods for Sampling and Testing 
+Conc rete Masonry Units and Related Units).  
+(B) Water Vapor Transmission  
+(i) ASTM E96/96M (Standard Test Methods for Water Vapor 
+Transmission of Materials); or  
+(ii) ASTM D6490 (Standard Test Method for Water Vapor 
+Transmission of Non film Forming Treatments Used on 
+Cementit ious Panels).  
+(C) Chloride Screening  shall be determined using the National Cooperative 
+Highway Research Report 244 (1981), “Concrete Sealers for the 
+Protection of Bridge Structures”.  
+(8) Performance criteria for Building Envelope Coatings shall be determined by  the 
+following:  
+(A) Air Barriers : 
+ASTM E2178 (Standard Test Method for Air Permeance of 
+Building Materials).  
+(B) Water Resistive Barriers  
+(i) ASTM E331 ( Standard Test Method for Water Penetration of 
+Exterior Windows, Skylights, Doors, and Curtain Walls by 
+Uniform Static  Air Pressure Difference) ; and  
+(ii) ASTM E96/96M (Standard Test Methods for Water Vapor 
+Transmission of Materials).  
+(9) Selection and Use of Stone Consolidants shall be determined by ASTM E21 67 
+(Standard Guide for Selection and Use of Stone Consolidants).  
+(10) Performan ce criteria for Tub and Tile Refinishing Coating s shall be determined 
+by the following : 
+(A) ASTM D3363 (Standard Test Method for Film Hardness by Pencil Test);  Rule 1113 (Cont.)  (Amended February 5, 2016 ) 
+1113 – 22 (B) ASTM D4060 (Standard Test Method for Abrasion Resistance of Organic 
+Coatings by the Taber Abraser) ; 
+(C) ASTM D4585 (Standard Practice for Testing Water Resistance of 
+Coatings Using Controlled Condensation) ; 
+(D) ASTM D714 (Standard Test Method for Evaluating Degree of Blistering 
+of Paints) ; and  
+(E) ASTM D3359 (Standard Test Methods for Measuring Adhesion by Tape 
+Test). 
+(11) Performance criteria for penetrating Tile and Stone Sealers shall be determined by 
+the following:  
+(A) Penetration of Dense Tile 
+(i) ASTM C373 (Standard Test Method for Water Absorption, Bulk 
+Density, Apparent Porosity, and Apparent Specific Gravity of 
+Fired Whi teware Products, Ceramic Tiles, and Glass Tiles);  
+(ii) ASTM C97/C97M (Standard Test Methods for Absorption and 
+Bulk Specific Gravity of Dimension Stone) ; or  
+(iii) ASTM C642  (Standard Test Method for Density, Absorption, and 
+Voids in Hardened Concrete) . 
+(B) Static Coeffi cient of Friction  by American National Standard Specification 
+for Ceramic Tile ( ANSI A137.1 ). 
+(C) Water Vapor Transmission by ASTM E96/96M (Standard Test Methods 
+for Water Vapor Transmission of Materials).  
+(12) Degree of Chalk ing Determination  
+ASTM D4214 ( Standard Test Methods for Evaluating the Degree of Chalking of 
+Exterior Paint Film s). 
+(13) Equivalent Test Methods  
+Other test methods determined to be equivalent after review by the Executive 
+Officer, CARB, and the U.S. EPA, and approved in writing by the District 
+Execu tive Officer may also be used.  
+(14) Multiple Test Methods  
+When more than one test method or set of test methods are specified for any 
+testing, a violation of any requirement of this rule established by any one of the 
+specified test methods or set of test method s shall constitute a violation of the 
+rule. 
+(15) All test methods referenced in this subdivision shall be the version most recently 
+approved by the appropriate governmental entities.  Rule 1113 (Cont.)  (Amended February 5, 2016 ) 
+1113 – 23 (f) Exemptions  
+(1) Small Container Exemption  
+The provisions of the Table of Standards  1 and paragraph (c)(1) of this rule shall 
+not apply to  architectural coatings in containers having capacities of one liter 
+(1.057 quart) or less, but shall apply to the following:  
+(A) Wood Coatings , including Lacquers, Varnishes, and Sanding Sealers.  
+(B) Effectiv e February 5, 2016 , Concrete -Curing Compounds For Roadways 
+and Bridges;  Magnesite Cement Coatings; Multi -Color Coatings; Pre -
+Treatment Wash Primers; Roof Primers, Bituminous; Sacrificial Anti -
+Graffiti Coatings; Stone Conso lidant s; Repair and Other Swimming  Pool 
+Coatings; and Below -Ground and Other  Wood Preservatives . 
+(C) Effective January 1, 201 8, Tub and Tile Refinishing  Coatings; Clear and 
+Pigmented Shellacs; and Reactive Penetrating Sealers.  
+(D) Effective January 1, 2019, Flats and Nonflat Coatings  that are sold : 
+(i) In containers having capacities greater than eight fluid ounce , or 
+(ii) For purposes other than touch  up. 
+(E) Effective January 1, 2019, Industrial Maintenance Coatings , including 
+Color Indicating Safety Coatings, High Temperature IM Coating s, Non -
+Sacrificial Ant i-Graffiti Coatings,  and Zinc -Rich IM Primers  that are sold:  
+(i) In containers having capacities greater than one liter, or 
+(ii) For purposes other than touch  up, or  
+(iii) Displayed or advertised for sale  at a retail outlet.  
+(F)  Effective January 1, 2020, Rust Preventat ive Coatings that are sold:  
+(i) In containers having capacities greater than eight fluid ounce, or  
+(ii) For purposes other than touch up.  
+(2) The small container exemption only applies if the following conditions are met:  
+(A) The manufacturer reports the sales in the Rule 314 Annual Quantity and 
+Emissions Report. The loss of this exemption due to the failure of the 
+manufacturer to submit the Rule 314 Annual Quantity and Emissions 
+Report shall apply only to the manufacturer.  
+(B) The coating containers  of the same specif ic coating category listed in  the 
+Table of Standards 1 , are not bundled together to be sold as a unit that 
+exceeds one liter (1.057 quarts), or eight fluid ounces for coatings under 
+subparagraph (f)(1)( D) as of January 1, 2019 , or eight fluid ounces for 
+coatings under subparagraph (f)(1)(F) as of January 1, 2020,  excluding 
+containers packed together for shipping to a retail outlet.  Rule 1113 (Cont.)  (Amended February 5, 2016 ) 
+1113 – 24 (C) The label or any other product literature does not suggest combining 
+multiple containers so that the combination exceeds one li ter (1.057 
+quarts)  or eight fluid ounces under (f)(1)( D) as of January 1, 2019 , or eight 
+fluid ounces for coatings under subparagraph (f)(1)(F) as of January 1, 
+2020 . 
+(3) The provisions of subparagraph (d)(1) through (d)(7) shall not apply to 
+architectural coa tings in containers having capacities of two fluid ounces (59mL) 
+or less.  
+(4) The provisions of this rule shall not apply to:  
+(A) Architectural coatings supplied, sold, offered for sale, marketed, 
+manufactured, blended, repackaged or stored in this District fo r shipment 
+outside of this District or for shipment to other manufacturers for 
+repackaging.  
+(B) Emulsion type bituminous pavement sealers.  
+(C) Aerosol coating products.  
+(D) Use of stains and lacquers in all areas within the District at an elevation of 
+4,000 feet or greater above sea level or sale in such areas for such use.  
+(5) The provisions of paragraph (c) shall not apply to facilities which apply coatings 
+to test specimens for purposes of research and development of those coatings.  
+(g) Solvent Cleaning  
+(6) Solvent  cleaning that is conducted as part of a business including solvent cleaning 
+of architectural coating application equipment  and the storage and disposal of 
+VOC -containing materials used in cleaning operations are subject to the 
+provisions of  Rule 1171 - Solvent Cleaning Operations.  
+(7) Solvent cleaning that is not conducted as part of a business  and solvent  thinning 
+of coating s including solvent cleaning of architectural coating application 
+equipment and solvent thinning of architectural coatings are subject to  the 
+provisions of Rule 1143 – Consumer Paint Thinner and Multi -Purpose Solvents.  
+ 
